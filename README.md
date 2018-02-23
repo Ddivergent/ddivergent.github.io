@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Divergent 
 
 You can use the [editor on GitHub](https://github.com/Ddivergent/ddivergent.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
