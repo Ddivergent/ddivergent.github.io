@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.iamrajendra.applink",
+    "sha256_cert_fingerprints":
+    ["08:BC:DF:DC:1C:79:17:34:30:25:A9:4B:82:BC:5B:9F:5C:58:E3:D9:8E:EF:5F:23:10:58:97:27:5E:D7:28:25"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://ddivergent.github.io"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.iamrajendra.applink",
+    "sha256_cert_fingerprints":
+    ["08:BC:DF:DC:1C:79:17:34:30:25:A9:4B:82:BC:5B:9F:5C:58:E3:D9:8E:EF:5F:23:10:58:97:27:5E:D7:28:25"]
+  }
+}]
